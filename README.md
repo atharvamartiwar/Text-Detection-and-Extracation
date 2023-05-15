@@ -1,1 +1,1 @@
-# Text-Detection-and-Extracation
+# Text-Detection-and-Extraction
